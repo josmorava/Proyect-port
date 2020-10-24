@@ -1,0 +1,10 @@
+@tailwind base; 
+
+@tailwind components; 
+
+.bg-hero{
+    @apply bg-cover bg-no-repeat min-h-screen bg-center; 
+}
+
+
+@tailwind utilities;
